@@ -5,6 +5,7 @@ A student-led start up that aims to provide halal food recommendations for Musli
 
 ![Image of Serverless vs Server API](https://www.gocd.org/assets/images/blog/serverless-continuous-delivery/traditional-vs-serverless-ee2afc44.jpeg)
 
+https://www.gocd.org/assets/images/blog/serverless-continuous-delivery/traditional-vs-serverless-ee2afc44.jpeg
 
 ### Serverless Architecture
 Serverless architectures are internet-based systems where the application development does not use the usual server process. Instead, they rely solely on a combination of third-party services, client-side logic and service-hosted remote procedure calls (Functions as a Service).
