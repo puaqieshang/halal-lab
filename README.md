@@ -28,6 +28,13 @@ Django | Firebase
 
 Firebase is what we call **BaaS** (Backend as a service). Through the use of APIs and SDKs, Firebase provides web and mobile apps developers with a way to link their applications to backend cloud storage.
 
+### Progress of the Django Backend 
+By experimenting with Django, I have created a back end admin page to Add, Delete and Update (Put) the halal ingredients database, as shown below. 
+
+![Image of Serverless vs Server API](https://github.com/puaqieshang/halal-lab/blob/master/Screenshot%202020-01-03%20at%2012.07.13%20PM.png)
+
+![Image of Serverless vs Server API](https://github.com/puaqieshang/halal-lab/blob/master/Screenshot%202020-01-03%20at%2012.09.41%20PM.png)
+
 ### References
 * https://www.fullstackfirebase.com/introduction/what-is-serverless 
 * https://appinventiv.com/blog/top-react-native-databases/?utm_campaign=Quora_Ria_ReactNativeDatabases&utm_medium=Quora_Ria&utm_source=Quora#A1
